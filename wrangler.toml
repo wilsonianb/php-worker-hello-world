@@ -1,4 +1,4 @@
-name = ""
+name = "php-worker"
 main = "index.js"
 compatibility_date = "2022-09-16"
 
